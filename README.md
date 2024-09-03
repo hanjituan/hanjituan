@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hanjituan&left_color=green&right_color=red)
+// ![visitors](https://visitor-badge.glitch.me/badge?page_id=hanjituan&left_color=green&right_color=red)
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanjituan)
