@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Siemens SuZhou fe
+- 🔭 I’m currently working on XiaoMi NanJing
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on echarts config 
 - 🤔 I’m looking for help with everything
